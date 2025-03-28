@@ -17,7 +17,6 @@
 
 
 ## About me
-Myslef 10/Vaibhav-Kumar10**
 Hi, I'm **Vaibhav Kumar**. 
 
 <details open>

@@ -105,7 +105,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vaibhav-Kumar10?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/huTFu8nIjY?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---

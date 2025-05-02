@@ -1,48 +1,63 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Kumar"/>
-</h1>
+<div align="center">
+  
+  # 👨‍💻 Vaibhav Kumar
 
-<h3 align="center">A Passionate Computer Science Undergraduate | Backend Developer | AI Enthusiast</h3>
+  <a href="mailto:vaibhav.udr21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-kumar-87557528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vaibhav-Kumar10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Backend+Developer;AI+Enthusiast;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
 
----
-
-
-## 💫 About Me
-
-- 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering from **VIT Bhopal University** (2023–27)
-- 💡 Passionate about **backend development**, **AI**, and solving real-world problems through tech  
-- 🔭 Currently working on AI-driven tools and full-stack apps
-- 🌱 Learning Advanced DSA, Flask, and App Development
-- 👯 Looking to collaborate on open-source and ML-backend projects
-- 💬 Ask me about Python, Flask, SQL, GitHub Actions, Chrome Extensions
-- 🧠 Fun Fact: *If you laugh at your old code, you’re learning!*
+  <br>
+  <p><i>Building the future, one line of code at a time</i></p>
+</div>
 
 ---
 
 
-## ⚒️ Tech Stack
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-### 🧩 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+## 🚀 About Me
 
-### ⚙️ Frameworks & Tools
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Tkinter](https://img.shields.io/badge/-Tkinter-gray?style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+- 🎓 B.Tech in Computer Science at **VIT Bhopal University** (2023–27)
+- 💻 Backend Developer specializing in Python & Flask
+- 🤖 AI & ML Enthusiast exploring cutting-edge technologies
+- 🔍 Passionate about solving real-world problems through tech
+- 🌱 Currently mastering: Advanced DSA, Full-stack Development
+- 👨‍💻 Open for collaboration on AI and backend projects
+- 🧠 Fun Fact: *"If you laugh at your old code, you're growing as a developer!"*
 
-### 🧠 AI / DS Libraries
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+<br clear="right"/>
 
 ---
+
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### AI / DS Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
 
 
 ## 🚀 Projects

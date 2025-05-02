@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/vaibhav-kumar-87557528a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Vaibhav-Kumar10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   
+  <a href="https://vaibhav-resume-gamma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1QHWDfMm4f2Gv0Y-Y52t9HegHzWKV5x1Y/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Backend+Developer;AI+Enthusiast;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
 
   <br>
@@ -13,6 +19,8 @@
 </div>
 
 ---
+
+
 
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />

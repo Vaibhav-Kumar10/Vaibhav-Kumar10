@@ -8,7 +8,7 @@
   <a href="https://vaibhav-resume-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1QHWDfMm4f2Gv0Y-Y52t9HegHzWKV5x1Y/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/drive/folders/12gnqIStCth8v1my-gtohoxNfriFi28Wc" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 

@@ -156,11 +156,10 @@
 
 ## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavKumar10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-Kumar10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Kumar10)
 
-![Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME)
 
 ![GitHub Trophies]("https://github-profile-trophy.vercel.app/?username=Vaibhav-Kumar10&theme=radical&no-bg=true&no-frame=true&row=2&column=5")
 

@@ -11,10 +11,10 @@
 <a href="https://github.com/Vaibhav-Kumar10">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://vaibhav-resume-gamma.vercel.app/" target="_blank">
+<a href="http://vaibhav-kumar-portfolio.s3-website.ap-south-1.amazonaws.com/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/file/d/1TO2GVHAVXxgFe6oB-CBuD8aDY4AVgAVC/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/12f5u01-WAilwhRdhymA0NHi0hcRCRI2E/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 

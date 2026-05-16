@@ -1,184 +1,179 @@
 <div align="center">
 
-# 👨‍💻 Vaibhav Kumar
+# Vaibhav Kumar
 
-<a href="mailto:vaibhav.udr21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vaibhav-kumar-87557528a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Vaibhav-Kumar10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://vaibhavkumar-portfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
-<a href="https://drive.google.com/file/d/12f5u01-WAilwhRdhymA0NHi0hcRCRI2E/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Software+Developer;AI+Enthusiast;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
+### Backend & AI Engineer focused on scalable systems, intelligent applications, and production-grade software.
 
 <p>
-  <i>Building the future, one line of code at a time</i>
-</p>
-</div>
-
----
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science at **VIT Bhopal University** (2023–27)
-- 💻 Backend Developer specializing in **Python, Flask & Django**  
-- 🤖 AI & ML Enthusiast exploring cutting-edge technologies
-- 🔍 Passionate about solving real-world problems through tech
-- 🌱 Currently mastering: **Advanced DSA, Full-stack Development**  
-- 👨‍💻 Open for collaboration on **AI and backend projects**
-- 🧠 Fun Fact: *"If you laugh at your old code, you're growing as a developer!"*
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-</div>
-
-## 🏆 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| ☕ **Brew Crew** | Reactive cloud app with Firebase Authentication & real-time streams | Flutter, Firebase, Provider |
-| 💡 **HridayVayu** | ML-based asthma care system with real-time alerts | Python, Flask, ML, Sensor Integration |
-| 🔐 **CyberBuddy** | AI-Powered Chrome Extension for phishing detection using Google Gemini API and ML (95% accuracy) | Python, Flask, ML, Chrome API |
-| 🧠 **Father's Advice** | Mentor matching system using bipartite graph-based scoring mechanism | Python, Graph Algorithms, Flask |
-| 🌐 **Full Stack Practice Site** | Secure web app with JWT authentication and MySQL | Flask, MySQL, JWT, HTML/CSS |
-| 🎨 **Portfolio Website** | Personal portfolio deployed with CI/CD using GitHub Actions | HTML/CSS, GitHub Actions |
-
-<p align="center"><i>🔍 More projects available in my repositories!</i></p>
-
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-### 📚 Learning Journey
-
-<table>
-  <tr>
-    <td> IBM </td>
-    <td>
-      <a href = "https://courses.cognitiveclass.ai/certificates/da189a9d362447abb0249503817f65b2" target = "_blank"> SQL & Relational Databases 101, </a>
-      <a href = "https://courses.cognitiveclass.ai/certificates/9c2a5428897347fcb6cfbfd295812f7c" target = "_blank"> Python 101 for DS </a>
-    </td>
-  </tr>
-  <tr>
-    <td> Coursera </td>
-    <td>
-      <a href = "https://www.coursera.org/account/accomplishments/records/MCZRRDL1LLD8" target = "_blank"> OS & You , </a>
-      <a href = "https://www.coursera.org/account/accomplishments/records/E7RRO5DSQQ0J" target = "_blank"> Computer Networking </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Finlatics
-    </td>
-    <td>
-      <a href = "https://www.finlatics.com/credentialscheck?hash=DS-876195bb28157ffe" target = "_blank"> Data Science with Python </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      VITYARTHI
-    </td>
-    <td>
-      <a href = "https://vityarthi.com/certificate/oGpMbPA4IQ3k" target = "_blank"> Fundamentals of AI & ML </a>
-      <a href = "https://vityarthi.com/certificate/cVmNZhTEHpfa" target = "_blank"> Java Programming, </a>
-      <a href = "https://vityarthi.com/certificate/b11bf1bb06" target = "_blank"> Python Essentials </a>
-    </td>
-  </tr>
-</table>
-
-### 🏅 Milestones
-
-🎖️ 5⭐ Python & C++ | 4⭐ SQL on HackerRank  
-🏅 Top 3 PCM scorer in Class 12 with 94.6%  
-📜 Completed 5+ Certifications in Python, AI & ML, and Data Science  
-🧑‍💻 Member of Cisco Community at VIT Bhopal
-
----
-
-## 🌍 Beyond Coding
-
-| 🌱 Currently Learning | 🎮 Hobbies | 🗣️ Languages |
-|:---------------------:|:----------:|:------------:|
-| Advanced DSA          | Strategy Games (CoC TH12)     | English |
-| App Development       | Sci-fi Movies (Interstellar!) | Hindi |
-| Backend Security      | Competitive Programming       | German 🇩🇪 (intermediate) |
-| CS Fundamentals       | Learning new skills           | Japanese 🇯🇵 (learning) |
-
-</div>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/huTFu8nIjY?theme=dark&font=Fira+Code&ext=heatmap" />
-</p>
-
-## 📊 Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-Kumar10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Kumar10)
-
-
-![GitHub Trophies]("https://github-profile-trophy.vercel.app/?username=Vaibhav-Kumar10&theme=radical&no-bg=true&no-frame=true&row=2&column=5")
-
-![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar10&theme=radical")
-
-![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/type=repos\&username=Vaibhav-Kumar10\&limit=6)
-
- <img src="https://komarev.com/ghpvc/?username=Vaibhav-Kumar10&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
----
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23151515&qColor=%23FF64DA&aColor=%2362AEEF&borderColor=%23151515" alt="Random Dev Joke"/>
-
-  <h2>Let's Connect & Build Something Amazing! 🚀</h2>
+  <a href="mailto:vaibhav.udr21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+  <a href="https://www.linkedin.com/in/vaibhav-kumar-87557528a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Vaibhav-Kumar10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://vaibhavkumar-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/12f5u01-WAilwhRdhymA0NHi0hcRCRI2E/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-⭐ *Thanks for visiting my GitHub! Let's connect and build something amazing.* 🚀
+## About Me
+
+- B.Tech Computer Science student at **VIT Bhopal University**
+- Focused on **Backend Engineering**, **AI Systems**, and **Full-Stack Development**
+- Building scalable applications using **Python, Flask, Flutter, Firebase, Docker, and cloud technologies**
+- Interested in **system design**, **distributed systems**, and **developer-focused tools**
+- Passionate about solving real-world problems through engineering and applied AI
+
+---
+
+## Core Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+# Featured Projects
+
+## CyberBuddy — AI-Powered Phishing Detection System
+
+- Built a Chrome extension integrating ML-based phishing detection with Gemini API analysis
+- Designed real-time URL analysis pipelines achieving ~95% detection accuracy
+- Implemented Flask backend APIs for threat classification and browser communication
+- Focused on security workflows, low-latency inference, and scalable API integration
+
+**Tech Stack:** Python, Flask, Machine Learning, Gemini API, Chrome Extension APIs
+
+---
+
+## Brew Crew — Real-Time Cloud-Based Flutter Application
+
+- Architected a reactive Flutter application with Firebase Authentication and Firestore streams
+- Implemented event-driven state management using Provider and real-time synchronization
+- Designed scalable frontend-backend interactions for seamless live updates
+- Focused on responsive UI, cloud synchronization, and clean application architecture
+
+**Tech Stack:** Flutter, Firebase, Provider
+
+---
+
+## HridayVayu — Intelligent Asthma Monitoring Platform
+
+- Developed an ML-assisted healthcare monitoring system integrating sensor-driven alerts
+- Built prediction pipelines for asthma-risk analysis with automated notification workflows
+- Designed Flask APIs for model integration and healthcare data handling
+- Focused on real-time monitoring and predictive healthcare assistance
+
+**Tech Stack:** Python, Flask, Machine Learning
+
+---
+
+## Father's Advice — Intelligent Mentor Matching Platform
+
+- Developed a mentor recommendation system using graph-based matching algorithms
+- Implemented bipartite scoring mechanisms for optimized mentor-mentee pairing
+- Designed scalable backend workflows for recommendation processing
+- Focused on recommendation quality and algorithmic efficiency
+
+**Tech Stack:** Python, Flask, Graph Algorithms
+
+---
+
+## Full Stack Authentication Platform
+
+- Built a secure authentication system with JWT-based authorization workflows
+- Developed RESTful backend APIs with MySQL integration
+- Implemented secure user authentication and session management
+- Focused on scalable backend architecture and API security practices
+
+**Tech Stack:** Flask, MySQL, JWT, REST APIs
+
+---
+
+## Engineering Interests
+
+- Backend Systems
+- AI Applications
+- Distributed Systems
+- API Design
+- Cloud Infrastructure
+- Developer Tools
+- System Design
+- Scalable Architectures
+
+---
+
+## Competitive Programming & Problem Solving
+
+- 5⭐ Python on HackerRank
+- 5⭐ C++ on HackerRank
+- 4⭐ SQL on HackerRank
+- Strong focus on Data Structures & Algorithms
+- Regular problem solving and backend engineering practice
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Kumar10&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar10&hide_border=true" />
+
+</div>
+
+---
+
+## LeetCode Activity
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/huTFu8nIjY?theme=dark&font=Fira+Code&ext=heatmap" />
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Advanced Backend Engineering
+- Scalable System Design
+- AI-powered Applications
+- Cloud-native Development
+- Dockerized Deployments
+- Authentication & Security Systems
+
+---
+
+<div align="center">
+
+### Open to collaborating on impactful engineering and AI projects.
+
+</div>

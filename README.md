@@ -129,13 +129,51 @@
 
 ---
 
-## Competitive Programming & Problem Solving
 
-- 5⭐ Python on HackerRank
-- 5⭐ C++ on HackerRank
-- 4⭐ SQL on HackerRank
-- Strong focus on Data Structures & Algorithms
-- Regular problem solving and backend engineering practice
+## Certifications & Achievements
+
+<div align="center">
+<table>
+  <tr>
+    <td> AWS </td>
+    <td>
+      <a href = "https://www.credly.com/badges/a101bb35-c3b4-4daf-9d2a-499c8cafdd78/public_url" target = "_blank"> AWS Certified Cloud Practitioner </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IBM </td>
+    <td>
+      <a href = "https://courses.cognitiveclass.ai/certificates/da189a9d362447abb0249503817f65b2" target = "_blank"> SQL & Relational Databases 101</a> , 
+      <a href = "https://courses.cognitiveclass.ai/certificates/9c2a5428897347fcb6cfbfd295812f7c" target = "_blank"> Python 101 for DS </a>
+    </td>
+  </tr>
+  <tr>
+    <td> Coursera </td>
+    <td>
+      <a href = "https://www.coursera.org/account/accomplishments/records/MCZRRDL1LLD8" target = "_blank"> OS & You </a>, 
+      <a href = "https://www.coursera.org/account/accomplishments/records/E7RRO5DSQQ0J" target = "_blank"> Computer Networking </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Finlatics
+    </td>
+    <td>
+      <a href = "https://www.finlatics.com/credentialscheck?hash=DS-876195bb28157ffe" target = "_blank"> Data Science with Python </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      VITYARTHI
+    </td>
+    <td>
+      <a href = "https://vityarthi.com/certificate/oGpMbPA4IQ3k" target = "_blank"> Fundamentals of AI & ML </a>
+      <a href = "https://vityarthi.com/certificate/cVmNZhTEHpfa" target = "_blank"> Java Programming, </a>
+      <a href = "https://vityarthi.com/certificate/b11bf1bb06" target = "_blank"> Python Essentials </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 

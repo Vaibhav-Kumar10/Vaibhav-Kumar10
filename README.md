@@ -61,17 +61,6 @@
 
 # Featured Projects
 
-## CyberBuddy — AI-Powered Phishing Detection System
-
-- Built a Chrome extension integrating ML-based phishing detection with Gemini API analysis
-- Designed real-time URL analysis pipelines achieving ~95% detection accuracy
-- Implemented Flask backend APIs for threat classification and browser communication
-- Focused on security workflows, low-latency inference, and scalable API integration
-
-**Tech Stack:** Python, Flask, Machine Learning, Gemini API, Chrome Extension APIs
-
----
-
 ## Brew Crew — Real-Time Cloud-Based Flutter Application
 
 - Architected a reactive Flutter application with Firebase Authentication and Firestore streams
@@ -80,6 +69,17 @@
 - Focused on responsive UI, cloud synchronization, and clean application architecture
 
 **Tech Stack:** Flutter, Firebase, Provider
+
+---
+
+## CyberBuddy — AI-Powered Phishing Detection System
+
+- Built a Chrome extension integrating ML-based phishing detection with Gemini API analysis
+- Designed real-time URL analysis pipelines achieving ~95% detection accuracy
+- Implemented Flask backend APIs for threat classification and browser communication
+- Focused on security workflows, low-latency inference, and scalable API integration
+
+**Tech Stack:** Python, Flask, Machine Learning, Gemini API, Chrome Extension APIs
 
 ---
 
